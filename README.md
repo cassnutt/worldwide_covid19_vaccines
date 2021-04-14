@@ -123,7 +123,7 @@ The different models used were:
 - statsmodel's ARIMA
 - statsmodel's SARIMAX with GridSearch
 - LSTM neural network
-<br>
+
 ---
 
 Unfortunately, because the vaccine is so new, there was not a lot of data to use when attempting to forecast a date.
